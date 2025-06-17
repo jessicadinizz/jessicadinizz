@@ -19,7 +19,7 @@ At **Uappi**, a leading e-commerce platform in Brazil, I’ve helped improve SEO
 ### Studying
 [![Learning](https://skillicons.dev/icons?i=aws,azure)](https://skillicons.dev)
 
-### Publications
+<!-- ### Publications
 <div>
   <a href="https://medium.com/@jessicadinizz">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank" alt="Medium">
@@ -27,7 +27,7 @@ At **Uappi**, a leading e-commerce platform in Brazil, I’ve helped improve SEO
   <a href="https://dev.to/jessicadinizz">
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" target="_blank" alt="Dev.to">
   </a>
-</div>
+</div> -->
 
 <!-- I write about web development, front-end engineering, and performance optimizations. Check out my latest articles:
 
