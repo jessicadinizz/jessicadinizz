@@ -15,11 +15,16 @@ I spent just over 3 years as a front-end developer at one of Brazil’s largest 
 
 Today I work as a front-end developer in a Brazilian team on a US/Dubai product, with a strong focus on performance, including shipping pages that reach 100/100 on Lighthouse.
 
-
+I like to do Full Stack projects and mess around with Python for fun. ;)
 
 
 ### Main skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,vue,react,nuxt,tailwind,sass,astro,git,docker)](https://skillicons.dev)
+
+
+### Disclaimer
+
+My commits section might look kinda empty, that's because I have separate professional Github/Gitlab pages, here you'll only find personal projects and things I do for fun :)
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFC261&height=120&section=footer" alt="footer"/>
