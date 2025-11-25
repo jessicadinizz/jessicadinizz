@@ -22,8 +22,4 @@ Today I work as a front-end developer in a Brazilian team on a US/Dubai product,
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,vue,react,nuxt,tailwind,sass,astro,git,docker)](https://skillicons.dev)
 
 
-### Employer?
-> [!IMPORTANT]  
-> <a href="https://drive.google.com/file/d/1RXFSp9McyZph9o-EANBtojlOCCTyp__Q/view?usp=sharing" download>Download my resume</a>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFC261&height=120&section=footer" alt="footer"/>
