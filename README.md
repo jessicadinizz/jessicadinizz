@@ -3,14 +3,10 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=FFC261&center=true&vCenter=true&width=500&lines=Hello%2C+nice+to+meet+you+%F0%9F%91%8B;Front-End+Developer+%E2%80%A2+Vue%2FNuxt%2C+TS%2C+Web+Perf"
+      src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=FFC261&center=true&vCenter=true&width=500&lines=Hello%2C+be+very+welcome"
       alt="Typing intro"
     />
   </a>
-
-  <p>
-    Software developer & computer engineer • 4+ years focused on front-end
-  </p>
 </div>
 
 ---
