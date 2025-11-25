@@ -1,30 +1,53 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFC261&height=120&section=header" alt="header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFC261&height=120&section=header" alt="header"/>
 
-<a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=FFC261&width=435&lines=Hello" alt="Front-End Developer"/>
-</a>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=FFC261&center=true&vCenter=true&width=500&lines=Hello%2C+nice+to+meet+you+%F0%9F%91%8B;Front-End+Developer+%E2%80%A2+Vue%2FNuxt%2C+TS%2C+Web+Perf"
+      alt="Typing intro"
+    />
+  </a>
 
-<!-- <div>
-    <img src="./assets/about_jessica.gif" alt="About Me Terminal GIF"/>
-</div> -->
+  <p>
+    Software developer & computer engineer • 4+ years focused on front-end
+  </p>
+</div>
 
-### About me
-I'm a software developer and computer engineer, and I've been working with front-end for a little over 4 years.
+---
+
+### Professional
+
+I'm a software developer and computer engineer, and I’ve been working with front-end for a little over 4 years.
 
 I spent over 3 years as a front-end developer at one of Brazil’s largest e-commerce platforms, building fast, accessible Vue/Nuxt interfaces used by millions of people.
 
-Today I work as a front-end developer in a Brazilian team on a US/Dubai product, with a strong focus on performance, including shipping pages that reach 100/100 on Lighthouse.
+Today I work as a front-end developer in a Brazilian team on a US/Dubai product, with a strong focus on performance, including shipping pixel-perfect pages that reach 100/100 on Lighthouse.
 
-I like to do Full Stack projects and mess around with Python for fun. ;)
+---
 
+### Personal
 
-### Main skills
+If I want a software/website and can’t find any that fits what I need, I’ll build one myself. That’s how I have fun and keep coding as a hobby. :)
+
+Besides that, I enjoy art in all shapes and ways: illustration, movies, music and especially languages.
+
+I love learning languages, right now I speak: **PT / EN / ES / 中文**. And currently focusing on improving my Mandarim.
+
+---
+
+### Main stack
+
+<div align="center">
+
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,vue,react,nuxt,tailwind,sass,astro,git,docker)](https://skillicons.dev)
 
+</div>
 
-### Disclaimer
+---
 
-My commits section might look kinda empty, that's because I have separate professional Github/Gitlab pages, here you'll only find personal projects and things I do for fun :)
+### 📌 Note
 
+My commits section might look a bit empty because I have separate professional GitHub/GitLab accounts.  
+Here you’ll mostly find personal projects and things I build for fun. 🙂
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFC261&height=120&section=footer" alt="footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFC261&height=120&section=footer" alt="footer"/>
