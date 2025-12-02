@@ -2,10 +2,11 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img
-      src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=FFC261&center=true&vCenter=true&width=500&lines=Hello%2C+be+very+welcome"
-      alt="Typing intro"
-    />
+<img
+  src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=FFC261&center=true&vCenter=true&width=500&lines=Hello%2C%20be%20very%20welcome%20%E0%AB%AE%20%CB%B6%E1%B5%94%20%E1%B5%95%20%E1%B5%94%CB%B6%20%E1%83%90"
+  alt="Typing intro"
+/>
+
   </a>
 </div>
 
